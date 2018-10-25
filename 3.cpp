@@ -6,7 +6,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-int a,arf = 0,i = 0;
+int a, i = 0;
+  double arf = 0;
 while (a!=0) {
     cin >> a;
     i++;
